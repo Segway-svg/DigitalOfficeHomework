@@ -1,3 +1,12 @@
-﻿// See https://aka.ms/new-console-template for more information
+﻿using static DigitalOfficeHomework.Menu.Menu;
 
-Console.WriteLine("Hello, World!");
+namespace DigitalOfficeHomework
+{
+    class Program
+    {
+        static void Main(string[] args)
+        {
+            Launch();
+        }
+    }
+}
