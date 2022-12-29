@@ -1,0 +1,26 @@
+﻿// абстрактные классы 
+        // finally
+        // при Cat cat = new Kitten() cat.base вызовется метод Kitten (если он там virtual) 
+        // проверка больше ли int.Max
+        // is as difference
+        // static random
+        // string extensions
+        // Generics
+        //         
+        // string a = null;
+        // string b = a ?? "is a null";
+        //
+        // string c = null;
+        // c ??= "no data";
+        
+        // string text = "aboba\n25,344,444";
+                    // string[] strings = text.Split("\n");
+                    // foreach (string str in strings)
+                    // {
+                    //     if (str.Contains(","))
+                    //     {
+                    //         Console.WriteLine(str);
+                    //     }
+                    // }
+                    // int num = int.Parse(strings[1].Replace(",", ""));
+                    // Console.WriteLine(int.Parse("a2"));
